@@ -1,6 +1,11 @@
-adds/
+# Data
+scrapy/
 data/
 docs/
+
+# IDEs
+.vscode/
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
