@@ -1,7 +1,5 @@
 # AgroFit
 
-<br>
-
 O [AgroFit](https://agrofit.agricultura.gov.br/) é um banco de informações sobre os produtos agroquímicos e afins registrados no [Ministério da Agricultura, Pecuária e Abastecimento - MAPA](https://www.gov.br/agricultura/pt-br). Permite a realização de pesquisas importantes para o controle de pragas na agricultura brasileira.
 
 A necessidade de raspar o banco de dados foi para auxiliar em projeto de pesquisa envolvendo o uso do _software_ [ARAquá](https://www.embrapa.br/busca-de-solucoes-tecnologicas/-/produto-servico/2024/araqua---avaliacao-de-risco-ambiental-de-agrotoxico). que auxilia na avaliação de risco ambiental de agrotóxicos.
